@@ -1,0 +1,1 @@
+ALTER TABLE reserva ADD COLUMN tipoHabitacion VARCHAR(100) NOT NULL;
